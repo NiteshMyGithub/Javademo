@@ -4,4 +4,8 @@ public class Pw
 	{
 		// Your Code
 	}
+		void display()
+	{
+		//New function
+	}
 }
